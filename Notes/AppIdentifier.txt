@@ -1,0 +1,6 @@
+- Every app has an app identifier. 
+- Reverse domain identifier. Identifier : domain(in reverse).yourname.appname
+- Backend needs app identifier.
+
+Developer Account
+- Needed for testing and deployment of applications.
