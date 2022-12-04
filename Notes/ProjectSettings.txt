@@ -1,0 +1,12 @@
+- Version : Major Number, Minor Number, Build Number
+- android, ios, windows - different platforms
+- pubspec.yaml : Basic Info
+- sdk : software development kit
+- analysis_options.yaml : Flutter check on your code
+- Dependencies : be careful! Code written by other people.
+
+Firebase
+- by Google
+- Server on Cloud
+
+https://www.github.com/Genymobile/scrcpy
