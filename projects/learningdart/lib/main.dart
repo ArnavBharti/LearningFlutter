@@ -16,6 +16,8 @@ void main() {
   runApp(const MyApp());
 }
 
+enum PersonProperties { firstName, lastName, age }
+
 void test() {
   // const name = 'foo';
   // if (name == 'fooo') {
@@ -34,7 +36,13 @@ void test() {
   // var names = {'name': 'foo'};
   // print(names);
 
-  const String? name = null;
+  // const String? name = null;
+  // const String? name = "Foo";
+  // final length = name?.length ?? 0;
+  // print(0);
+
+  const name = 'Foo';
+  const otherName = 'Foo';
 }
 
 class MyApp extends StatelessWidget {
