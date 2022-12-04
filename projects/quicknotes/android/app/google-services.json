@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26073311709",
+    "project_id": "mynotes-arnavbharti",
+    "storage_bucket": "mynotes-arnavbharti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26073311709:android:45a4f0ebfcce2c6dcfee34",
+        "android_client_info": {
+          "package_name": "com.arnavbharti.quicknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26073311709-t5a4t04j8thj7k5v9p2as96i7jrtj952.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2n9i8qprPMbD7Pd0vz-l3q4zGhn5FM3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26073311709-t5a4t04j8thj7k5v9p2as96i7jrtj952.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
