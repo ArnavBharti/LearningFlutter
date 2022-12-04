@@ -24,3 +24,27 @@
 
 Null Safety
 - var String? name = 'Arnav';
+- basically any can be nullable
+- list<String>? vs list<String?>?
+- term 'optional'
+- ?? operator
+- ??= operator
+
+OOP
+- Objects are instances of classes
+- Classes
+- Objects
+- Instances
+- Constructors
+- Inheritance (extends keyword)
+- abstract class
+- Factory Constructor
+
+- custom operators
+- future
+- synchronous vs asynchronous task
+- async/await
+- streams
+- generators sync* async*
+- Iterable (lazy collecction), yield keyword
+- generics
