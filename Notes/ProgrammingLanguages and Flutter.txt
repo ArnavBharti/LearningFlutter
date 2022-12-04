@@ -1,0 +1,15 @@
+Programming Language
+- Uses Dart
+	- Maintained by Google
+- DartPad (practice Dart)
+
+Flutter
+- Cross Platform
+- UI Framework
+- Developed by Google
+- Open Sourced
+
+Framework
+- Set of tools for development
+
+- Run 'flutter doctor' in terminal

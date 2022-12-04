@@ -1,0 +1,26 @@
+- flutter create "name" to create flutter project
+- keywords : words reserved for programming language
+- https://dart.dev/guides/language/language-tour
+- datatype : numbers, list, string, character, etc.
+- https://api.dart.dev/stable/2.14.4/dart-core/dart-core-library.html
+- constant : value cannot be changed, 
+- compiletime vs runtime
+- const foo
+- end with semicolon
+- variables
+- var vs final *
+- functions
+- hot reload
+- use $ for string parameters
+- use camelCase
+
+- if, else if, else
+- operators
+- infix vs prefix operator
+- -- operator : subtracts one from operand
+- lists and indexes
+- sets
+- maps (dictionary type of python)
+
+Null Safety
+- var String? name = 'Arnav';
